@@ -1,10 +1,10 @@
-# bmi
-
-A new Flutter project.
+# BMI Calculator
 
 ## Getting Started
 
+![Preview Image](preview.png)
 This project is a starting point for a Flutter application.
+im currently using getx Statemanagement for this apps
 
 A few resources to get you started if this is your first Flutter project:
 
